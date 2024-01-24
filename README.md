@@ -1,2 +1,2 @@
-# ChatGPT-Ethical-Analysis-in-Academia
-Research project that I and a group of 4 students conducted the use of ChatGPT in Academia, namely universities and colleges. Data was collected through surveys and after a collection of 100 submissions. We fed that data into our Python code which imported Pandas, Numpy, and Matplotlib, for data visualization. We prepared a presentation and a report conducting our findings in this research.
+# ChatGPT-Ethical-Analysis-in-Academia 
+Collaborative research project by myself and a team of four students, exploring the application of ChatGPT in academic environments, specifically within universities and colleges. Our data collection involved surveys, retrieving insights from 100 submissions. Used Python with Pandas, Numpy, and Matplotlib for data visualization, we processed and analyzed the data. The culmination of our efforts resulted in a comprehensive presentation and report, outlining the key findings from our research. 📊🔍
